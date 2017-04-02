@@ -30,6 +30,7 @@ from test_dockwidget import TestDockWidget
 import os.path
 
 #This is a test line for Git hub, this is a great line
+#Branche test
 class Test:
     """QGIS Plugin Implementation."""
 
